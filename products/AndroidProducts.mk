@@ -53,7 +53,7 @@ PRODUCT_MAKEFILES += \
     $(LOCAL_DIR)/phone2/aospa_phone2.mk \
     $(LOCAL_DIR)/porsche/aospa_porsche.mk \
     $(LOCAL_DIR)/psyche/aospa_psyche.mk \
-    $(LOCAL_DIR)/psyche/aospa_RMX1901.mk \
+    $(LOCAL_DIR)/RMX1901/aospa_RMX1901.mk \
     $(LOCAL_DIR)/raven/aospa_raven.mk \
     $(LOCAL_DIR)/sky/aospa_sky.mk \
     $(LOCAL_DIR)/spes/aospa_spes.mk \
