@@ -1,10 +1,5 @@
 [
-    {
-        "remote":       "github",
-        "repository":   "Shravan55555/device_realme_RMX1901_udc",
-        "target_path":  "device/realme/RMX1901",
-        "revision":     "aospa"
-    },
+    
     {
         "remote":       "github",
         "repository":   "shravansayz/kernel_realme_sdm710",
